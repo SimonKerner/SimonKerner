@@ -39,7 +39,7 @@ Tools:
   <img align="left" alt="Simons's GoodRead" width="20px" src="https://simpleicons.vercel.app/goodreads/495f7e" />
 </a>
 
-|&nbsp;&nbsp;&nbsp; My Projects : <sub>&#9660; &#9660; &#9660;</sub>
+|&nbsp;&nbsp;&nbsp; Check out my Repos : <sub>&#9660; &#9660; &#9660;</sub>
 
 
 
