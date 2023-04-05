@@ -6,9 +6,9 @@ My name is Simon and I am a computer science student from Germany. I am currentl
 
 Languages: 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 
@@ -22,6 +22,7 @@ Technologies:
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
 
 Tools:
+![Anaconda](https://img.shields.io/badge/-Anaconda-000?&logo=Anaconda)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
@@ -39,6 +40,8 @@ Tools:
 </a>
 
 |&nbsp;&nbsp;&nbsp; My Projects : <sub>&#9660; &#9660; &#9660;</sub>
+
+
 
 
 <!--
