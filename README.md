@@ -1,6 +1,6 @@
 ### Hey!
 
-My name is Simon and I am a computer science student from Germany. I am currently in my Bachelor's program and my majors are IT Security and Data Science. I started programming about 3+ years ago in my first semester and since then I have been very eager to learn and explore new technologies. Aritifcial Intelligence is an area I'm focusing right now.
+My name is Simon and I am a computer science student from Germany. I am currently in my Bachelor's program and my majors are IT Security and Data Science. I started programming about 3+ years ago in my first semester and since then I have been very eager to learn and explore new technologies. Aritifcial Intelligence is an area I'm focusing right now. 
 
 ### Technologies & Tools
 
@@ -12,14 +12,19 @@ Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 
-Frameworks/Platforms:
+Technologies:
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
 
 Tools:
+![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 
 
 ----
