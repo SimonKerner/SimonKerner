@@ -4,7 +4,23 @@ My name is Simon and I am a computer science student from Germany. I am currentl
 
 ### Technologies & Tools
 
-TODO
+Languages: 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+
+Frameworks/Platforms:
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
+
+Tools:
+
 
 ----
 <a href="https://www.linkedin.com/in/simon-kerner-151187212/">
