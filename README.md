@@ -1,6 +1,6 @@
 ### Hey!
 
-My name is Simon and I am a computer science student from Germany. I am currently in my Bachelor's program and my majors are IT Security and Data Science. I started programming about 3+ years ago in my first semester and since then I have been very eager to learn and explore new technologies. Aritifcial Intelligence is an area I'm focusing right now. 
+My name is Simon and I am a computer science student from Germany. I am currently in my Bachelor's program and my majors are IT Security and Data Science. I started programming about 3+ years ago in my first semester and since then I have been very eager to learn and explore new technologies. Aritifcial Intelligence is an area I'm focusing on right now. 
 
 ### Technologies & Tools
 
