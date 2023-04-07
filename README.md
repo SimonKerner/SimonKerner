@@ -29,8 +29,8 @@ Tools:
 
 
 ----
-<a href="https://www.linkedin.com/in/simon-kerner-151187212/">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+<a href="https://www.linkedin.com/in/simonkerner/">
+  <img align="left" alt="Simon's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://www.instagram.com/simonkerner_/">
   <img align="left" alt="Simons's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
