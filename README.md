@@ -16,7 +16,6 @@ Technologies:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
