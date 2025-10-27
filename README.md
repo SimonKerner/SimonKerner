@@ -28,15 +28,7 @@ Tools:
 
 
 ----
-<a href="https://www.linkedin.com/in/simonkerner/">
-  <img align="left" alt="Simon's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-<a href="https://www.instagram.com/simonkerner_/">
-  <img align="left" alt="Simons's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://www.goodreads.com/user/show/161866306-simon-kerner">
-  <img align="left" alt="Simons's GoodRead" width="20px" src="https://simpleicons.vercel.app/goodreads/495f7e" />
-</a>
+
 
 |&nbsp;&nbsp;&nbsp; Check out my Repos : <sub>&#9660; &#9660; &#9660;</sub>
 
